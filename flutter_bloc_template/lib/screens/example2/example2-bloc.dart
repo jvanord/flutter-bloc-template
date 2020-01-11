@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:ui';
 import 'package:flutter/services.dart';
-import 'package:example/models/contact.dart';
+import 'package:flutter_bloc_template/models/contact.dart';
 import 'package:flutter/material.dart';
-import 'package:example/bloc/bloc.dart';
+import 'package:flutter_bloc_template/bloc/bloc.dart';
 
 class Example2Bloc extends Bloc {
   StreamSubscription _audioPlayerStateSubscription;

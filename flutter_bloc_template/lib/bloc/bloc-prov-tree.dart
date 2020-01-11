@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:example/bloc/bloc-prov.dart';
+import 'package:flutter_bloc_template/bloc/bloc-prov.dart';
 
 /// A Flutter [Widget] that merges multiple [BlocProvider] widgets into one widget tree.
 ///

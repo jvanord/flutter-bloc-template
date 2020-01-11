@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:example/bloc/bloc.dart';
+import 'package:flutter_bloc_template/bloc/bloc.dart';
 
 /// A Flutter widget which provides a bloc to its children via `BlocProvider.of(context)`.
 /// It is used as a DI widget so that a single instance of a bloc can be provided

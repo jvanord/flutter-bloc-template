@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:example/screens/example2/components/body.dart';
-import 'package:example/screens/example2/example2-bloc.dart';
-import 'package:example/bloc/bloc-prov.dart';
+import 'package:flutter_bloc_template/screens/example2/components/body.dart';
+import 'package:flutter_bloc_template/screens/example2/example2-bloc.dart';
+import 'package:flutter_bloc_template/bloc/bloc-prov.dart';
 
 class ExScreen2 extends StatefulWidget {
   @override
